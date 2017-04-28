@@ -1,0 +1,58 @@
+C:\Users\miztaken\Desktop\PluginExamples\UBotPluginExamples\WizardCommands\obj\Debug\TableListPlugin.csprojResolveAssemblyReference.cache
+C:\Users\miztaken\Desktop\PluginExamples\UBotPluginExamples\WizardCommands\obj\Debug\TableCSVGrid.baml
+C:\Users\miztaken\Desktop\PluginExamples\UBotPluginExamples\WizardCommands\obj\Debug\TableCSVGrid.g.cs
+C:\Users\miztaken\Desktop\PluginExamples\UBotPluginExamples\WizardCommands\obj\Debug\WizardCommands_MarkupCompile.cache
+C:\Users\miztaken\Desktop\PluginExamples\UBotPluginExamples\WizardCommands\obj\Debug\WizardCommands.g.resources
+C:\Users\miztaken\Desktop\PluginExamples\UBotPluginExamples\WizardCommands\obj\Debug\TableListCommands.Properties.Resources.resources
+C:\Users\miztaken\Desktop\PluginExamples\UBotPluginExamples\WizardCommands\obj\Debug\TableListPlugin.csproj.GenerateResource.Cache
+C:\Users\miztaken\Desktop\TableListPlugin\WizardCommands\bin\Debug\TableListCommands.dll
+C:\Users\miztaken\Desktop\TableListPlugin\WizardCommands\bin\Debug\TableListCommands.pdb
+C:\Users\miztaken\Desktop\TableListPlugin\WizardCommands\bin\Debug\UBotPlugin.dll
+C:\Users\miztaken\Desktop\TableListPlugin\WizardCommands\obj\Debug\TableCSVGrid.baml
+C:\Users\miztaken\Desktop\TableListPlugin\WizardCommands\obj\Debug\TableCSVGrid.g.cs
+C:\Users\miztaken\Desktop\TableListPlugin\WizardCommands\obj\Debug\TableListCommands_MarkupCompile.cache
+C:\Users\miztaken\Desktop\TableListPlugin\WizardCommands\obj\Debug\TableListCommands.g.resources
+C:\Users\miztaken\Desktop\TableListPlugin\WizardCommands\obj\Debug\TableListCommands.Properties.Resources.resources
+C:\Users\miztaken\Desktop\TableListPlugin\WizardCommands\obj\Debug\TableListPlugin.csproj.GenerateResource.Cache
+C:\Users\miztaken\Desktop\TableListPlugin\WizardCommands\obj\Debug\TableListCommands.dll
+C:\Users\miztaken\Desktop\TableListPlugin\WizardCommands\obj\Debug\TableListCommands.pdb
+C:\Users\miztaken\Desktop\TableListPlugin\WizardCommands\obj\Debug\ListCSVGrid.baml
+C:\Users\miztaken\Desktop\TableListPlugin\WizardCommands\obj\Debug\ListCSVGrid.g.cs
+C:\Users\miztaken\Desktop\TJ Table and List\TableListPlugin\WizardCommands\bin\Debug\CSV List Extension.dll
+C:\Users\miztaken\Desktop\TJ Table and List\TableListPlugin\WizardCommands\bin\Debug\CSV List Extension.pdb
+C:\Users\miztaken\Desktop\TJ Table and List\TableListPlugin\WizardCommands\bin\Debug\UBotPlugin.dll
+C:\Users\miztaken\Desktop\TJ Table and List\TableListPlugin\WizardCommands\obj\Debug\AddNewColumn.baml
+C:\Users\miztaken\Desktop\TJ Table and List\TableListPlugin\WizardCommands\obj\Debug\FindAndReplaceColumn.baml
+C:\Users\miztaken\Desktop\TJ Table and List\TableListPlugin\WizardCommands\obj\Debug\TableRowInsert.baml
+C:\Users\miztaken\Desktop\TJ Table and List\TableListPlugin\WizardCommands\obj\Debug\ListCSVGrid.baml
+C:\Users\miztaken\Desktop\TJ Table and List\TableListPlugin\WizardCommands\obj\Debug\TableCSVGrid.baml
+C:\Users\miztaken\Desktop\TJ Table and List\TableListPlugin\WizardCommands\obj\Debug\AddNewColumn.g.cs
+C:\Users\miztaken\Desktop\TJ Table and List\TableListPlugin\WizardCommands\obj\Debug\FindAndReplaceColumn.g.cs
+C:\Users\miztaken\Desktop\TJ Table and List\TableListPlugin\WizardCommands\obj\Debug\TableRowInsert.g.cs
+C:\Users\miztaken\Desktop\TJ Table and List\TableListPlugin\WizardCommands\obj\Debug\ListCSVGrid.g.cs
+C:\Users\miztaken\Desktop\TJ Table and List\TableListPlugin\WizardCommands\obj\Debug\TableCSVGrid.g.cs
+C:\Users\miztaken\Desktop\TJ Table and List\TableListPlugin\WizardCommands\obj\Debug\CSV List Extension_MarkupCompile.cache
+C:\Users\miztaken\Desktop\TJ Table and List\TableListPlugin\WizardCommands\obj\Debug\CSV List Extension.g.resources
+C:\Users\miztaken\Desktop\TJ Table and List\TableListPlugin\WizardCommands\obj\Debug\TableListCommands.Properties.Resources.resources
+C:\Users\miztaken\Desktop\TJ Table and List\TableListPlugin\WizardCommands\obj\Debug\TableListPlugin.csproj.GenerateResource.Cache
+C:\Users\miztaken\Desktop\TJ Table and List\TableListPlugin\WizardCommands\obj\Debug\CSV List Extension.dll
+C:\Users\miztaken\Desktop\TJ Table and List\TableListPlugin\WizardCommands\obj\Debug\CSV List Extension.pdb
+E:\Projs\TJ Table and List\Source\TableListPlugin\WizardCommands\bin\Debug\Tables And Lists.dll
+E:\Projs\TJ Table and List\Source\TableListPlugin\WizardCommands\bin\Debug\Tables And Lists.pdb
+E:\Projs\TJ Table and List\Source\TableListPlugin\WizardCommands\bin\Debug\UBotPlugin.dll
+E:\Projs\TJ Table and List\Source\TableListPlugin\WizardCommands\obj\Debug\AddNewColumn.baml
+E:\Projs\TJ Table and List\Source\TableListPlugin\WizardCommands\obj\Debug\FindAndReplaceColumn.baml
+E:\Projs\TJ Table and List\Source\TableListPlugin\WizardCommands\obj\Debug\TableRowInsert.baml
+E:\Projs\TJ Table and List\Source\TableListPlugin\WizardCommands\obj\Debug\ListCSVGrid.baml
+E:\Projs\TJ Table and List\Source\TableListPlugin\WizardCommands\obj\Debug\TableCSVGrid.baml
+E:\Projs\TJ Table and List\Source\TableListPlugin\WizardCommands\obj\Debug\AddNewColumn.g.cs
+E:\Projs\TJ Table and List\Source\TableListPlugin\WizardCommands\obj\Debug\FindAndReplaceColumn.g.cs
+E:\Projs\TJ Table and List\Source\TableListPlugin\WizardCommands\obj\Debug\TableRowInsert.g.cs
+E:\Projs\TJ Table and List\Source\TableListPlugin\WizardCommands\obj\Debug\ListCSVGrid.g.cs
+E:\Projs\TJ Table and List\Source\TableListPlugin\WizardCommands\obj\Debug\TableCSVGrid.g.cs
+E:\Projs\TJ Table and List\Source\TableListPlugin\WizardCommands\obj\Debug\Tables And Lists_MarkupCompile.cache
+E:\Projs\TJ Table and List\Source\TableListPlugin\WizardCommands\obj\Debug\Tables And Lists.g.resources
+E:\Projs\TJ Table and List\Source\TableListPlugin\WizardCommands\obj\Debug\TableListCommands.Properties.Resources.resources
+E:\Projs\TJ Table and List\Source\TableListPlugin\WizardCommands\obj\Debug\TableListPlugin.csproj.GenerateResource.Cache
+E:\Projs\TJ Table and List\Source\TableListPlugin\WizardCommands\obj\Debug\Tables And Lists.dll
+E:\Projs\TJ Table and List\Source\TableListPlugin\WizardCommands\obj\Debug\Tables And Lists.pdb
